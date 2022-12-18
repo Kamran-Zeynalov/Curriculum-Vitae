@@ -1,0 +1,101 @@
+body {
+    background-image: url(/Information/image/02.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.baseDiv {
+    margin-left: 23%;
+    width: 50%;
+    border: 10px solid #F35810;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: white;
+}
+
+.imgDiv {
+    display: inline;
+}
+
+img {
+    width: 150px;
+}
+
+.heading {
+    border-bottom: 5px solid black;
+}
+
+.divname {
+    margin-top: 5px;
+    display: inline;
+    float: right;
+}
+
+.name {
+    float: right;
+}
+
+.name1 {
+    float: right;
+    margin-top: 33%;
+    margin-right: -150px;
+}
+
+.year {
+    float: right;
+    background-color: black;
+    color: white;
+}
+
+.person {
+    display: inline;
+}
+
+.indent {
+    padding-left: 50px;
+}
+
+.p3 {
+    display: inline;
+    padding-left: 16%;
+}
+
+.p4 {
+    display: inline;
+    padding-left: 18%;
+}
+
+.p1 {
+    display: inline;
+}
+
+.p2 {
+    display: inline;
+    padding-left: 20%;
+}
+
+.q2 {
+    display: inline;
+    padding-left: 9%;
+}
+
+.p5 {
+    display: inline;
+    padding-left: 10%;
+    text-transform: uppercase;
+
+}
+
+#sub {
+    font-size: 20px;
+}
+
+#sup {
+    font-size: 15px;
+}
+
+p {
+    font-size: 17px;
+}
